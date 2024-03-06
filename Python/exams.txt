@@ -1,0 +1,2 @@
+mehmet rasim:60,70,80
+bahar  yildiz:70,80,90
